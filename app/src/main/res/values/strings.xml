@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LiftLedger2</string>
+    <string name="title_activity_add_workout_plan">AddWorkoutPlanActivity</string>
 </resources>
